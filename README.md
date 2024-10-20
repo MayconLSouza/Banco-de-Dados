@@ -1,2 +1,2 @@
-# Database
-This repository contains the tasks for Database subject from the System Analysis and Development (ADS) course. The tasks in this repository are designed to help students understand and apply concepts related to database management, including data modeling, SQL, and relational databases. These exercises focus on various aspects of database development, including query writing, data manipulation, and optimization.
+# Banco de Dados
+Esse repositório contém as tarefas da disciplina de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas (ADS). As tarefas desse repositório foram criadas para ajudar os alunos a entender e aplicar conceitos relacionados ao gerenciamento de banco de dados, incluindo modelagem de dados, SQL e bancos de dados relacionais. Esses exercícios se concentram em vários aspectos do desenvolvimento de bancos de dados, incluindo a elaboração de consultas, a manipulação de dados e a otimização.
